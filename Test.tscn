@@ -9,7 +9,7 @@ extents = Vector3( 7, 1, 5 )
 [node name="The" instance=ExtResource( 2 )]
 
 [node name="Player" parent="." index="4" instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.53347, 0.88, -2.01223 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.53347, 0.88, -1.654 )
 
 [node name="StaticBody" type="StaticBody" parent="." index="5"]
 

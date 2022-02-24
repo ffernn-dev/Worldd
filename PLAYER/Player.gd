@@ -34,7 +34,7 @@ var _is_jumping_input := false
 
 # Called when the node enters the scene tree
 func _ready() -> void:
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	#Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	cam.fov = FOV
 
 

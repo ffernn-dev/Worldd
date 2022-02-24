@@ -21,6 +21,3 @@ transform = Transform( 1, 0, 0, 0, 0.803618, 0.595145, 0, -0.595145, 0.803618, 0
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0 )
-FOV = 90.0
-walk_speed = 2
-sprint_speed = 6
