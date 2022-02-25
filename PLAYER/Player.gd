@@ -6,7 +6,6 @@ extends KinematicBody
 export(float) var mouse_sensitivity = 8.0
 export(NodePath) var head_path = "Head"
 export(NodePath) var cam_path = "Head/Camera"
-export(float) var FOV = 80.0
 var mouse_axis := Vector2()
 onready var head: Spatial = get_node(head_path)
 onready var cam: Camera = get_node(cam_path)
@@ -34,8 +33,8 @@ var _is_jumping_input := false
 
 # Called when the node enters the scene tree
 func _ready() -> void:
-	#Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
-	cam.fov = FOV
+	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	pass
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame
@@ -164,12 +163,10 @@ func jump() -> void:
 func sprint(delta: float) -> void:
 	if can_sprint():
 		_speed = sprint_speed
-		cam.set_fov(lerp(cam.fov, FOV * 1.05, delta * 8))
 		sprinting = true
 		
 	else:
 		_speed = walk_speed
-		cam.set_fov(lerp(cam.fov, FOV, delta * 8))
 		sprinting = false
 
 

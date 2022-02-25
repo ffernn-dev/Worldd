@@ -1,3 +1,5 @@
 https://blender.stackexchange.com/questions/71721/how-to-make-a-curtain
 https://ambientcg.com/view?id=Marble005
 https://www.reddit.com/r/godot/comments/f49osr/can_a_real_time_3d_daynight_cycle_can_be/
+http://boundingboxsoftware.com/materialize/index.php
+https://www.youtube.com/watch?v=tgK_pFdjFRA
