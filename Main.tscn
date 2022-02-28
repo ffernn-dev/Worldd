@@ -5,6 +5,7 @@
 [node name="Main" type="Spatial"]
 
 [node name="World" type="CSGCombiner" parent="."]
+visible = false
 use_collision = true
 
 [node name="CSGBox" type="CSGBox" parent="World"]
