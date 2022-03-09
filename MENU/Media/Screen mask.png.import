@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trash-solid.svg-d7d610e7f9ecd162411b3534ba195f20.stex"
+path="res://.import/Screen mask.png-b8099a4862e9b91fe47c9db17b8b304a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/NbPM/icons/trash-solid.svg"
-dest_files=[ "res://.import/trash-solid.svg-d7d610e7f9ecd162411b3534ba195f20.stex" ]
+source_file="res://MENU/Media/Screen mask.png"
+dest_files=[ "res://.import/Screen mask.png-b8099a4862e9b91fe47c9db17b8b304a.stex" ]
 
 [params]
 
