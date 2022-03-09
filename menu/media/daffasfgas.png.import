@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex"
+path="res://.import/daffasfgas.png-185c8c4fc1c93bc03f9bff075131f799.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://menu/media/fabian-irsara-_SwLdgVGfVY-unsplash.jpg"
-dest_files=[ "res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex" ]
+source_file="res://menu/media/daffasfgas.png"
+dest_files=[ "res://.import/daffasfgas.png-185c8c4fc1c93bc03f9bff075131f799.stex" ]
 
 [params]
 

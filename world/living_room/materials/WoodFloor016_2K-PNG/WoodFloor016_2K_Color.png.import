@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex"
+path="res://.import/WoodFloor016_2K_Color.png-6831a0e43d236ac818c9d5ae866997cb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://menu/media/fabian-irsara-_SwLdgVGfVY-unsplash.jpg"
-dest_files=[ "res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex" ]
+source_file="res://world/living_room/materials/WoodFloor016_2K-PNG/WoodFloor016_2K_Color.png"
+dest_files=[ "res://.import/WoodFloor016_2K_Color.png-6831a0e43d236ac818c9d5ae866997cb.stex" ]
 
 [params]
 

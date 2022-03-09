@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex"
+path="res://.import/Metal030_1K_Displacement.jpg-1f2d4d56078d9f05687cf7374a9a5741.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://menu/media/fabian-irsara-_SwLdgVGfVY-unsplash.jpg"
-dest_files=[ "res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex" ]
+source_file="res://world/living_room/materials/Metal030_1K-JPG/Metal030_1K_Displacement.jpg"
+dest_files=[ "res://.import/Metal030_1K_Displacement.jpg-1f2d4d56078d9f05687cf7374a9a5741.stex" ]
 
 [params]
 

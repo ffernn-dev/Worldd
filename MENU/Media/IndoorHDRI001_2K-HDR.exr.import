@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/IndoorHDRI001_2K-HDR.exr-b2db8c00aab5cb59bd70f9be31c837e7.stex"
+path="res://.import/IndoorHDRI001_2K-HDR.exr-a55725e95d45cc11e969c8649af10a75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://MENU/Media/IndoorHDRI001_2K-HDR.exr"
-dest_files=[ "res://.import/IndoorHDRI001_2K-HDR.exr-b2db8c00aab5cb59bd70f9be31c837e7.stex" ]
+source_file="res://menu/media/IndoorHDRI001_2K-HDR.exr"
+dest_files=[ "res://.import/IndoorHDRI001_2K-HDR.exr-a55725e95d45cc11e969c8649af10a75.stex" ]
 
 [params]
 

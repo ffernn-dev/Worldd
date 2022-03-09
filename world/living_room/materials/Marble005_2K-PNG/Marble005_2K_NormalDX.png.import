@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex"
+path="res://.import/Marble005_2K_NormalDX.png-d1ee1399814ee70fa668c32d56420979.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://menu/media/fabian-irsara-_SwLdgVGfVY-unsplash.jpg"
-dest_files=[ "res://.import/fabian-irsara-_SwLdgVGfVY-unsplash.jpg-a18dccfc2fcc7332d67edb92586b7d0b.stex" ]
+source_file="res://world/living_room/materials/Marble005_2K-PNG/Marble005_2K_NormalDX.png"
+dest_files=[ "res://.import/Marble005_2K_NormalDX.png-d1ee1399814ee70fa668c32d56420979.stex" ]
 
 [params]
 

@@ -21,11 +21,11 @@ _global_script_class_icons={
 [application]
 
 config/name="Why did I start another project"
-run/main_scene="res://Main.tscn"
+run/main_scene="res://Main.tscm"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/gd-sheets/plugin.cfg", "res://addons/text_vars/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/text_vars/plugin.cfg" )
 
 [gdnative]
 
