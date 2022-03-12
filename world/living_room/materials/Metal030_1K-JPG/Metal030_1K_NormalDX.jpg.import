@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Metal030_1K_NormalDX.jpg-17ccd4a45cf102e7b73529a32d137a13.stex"
+path="res://.import/Metal030_1K_NormalDX.jpg-f01f10b605189e3004aafb4e8c04fb79.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Metal030_1K-JPG/Metal030_1K_NormalDX.jpg"
-dest_files=[ "res://.import/Metal030_1K_NormalDX.jpg-17ccd4a45cf102e7b73529a32d137a13.stex" ]
+source_file="res://WORLD/living_room/materials/Metal030_1K-JPG/Metal030_1K_NormalDX.jpg"
+dest_files=[ "res://.import/Metal030_1K_NormalDX.jpg-f01f10b605189e3004aafb4e8c04fb79.stex" ]
 
 [params]
 

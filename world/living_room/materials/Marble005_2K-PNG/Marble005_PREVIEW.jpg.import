@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Marble005_PREVIEW.jpg-d44b19ff6ef987c147290ac95f5631f5.stex"
+path="res://.import/Marble005_PREVIEW.jpg-7c3f49743c255ef56c4d79da85b355ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Marble005_2K-PNG/Marble005_PREVIEW.jpg"
-dest_files=[ "res://.import/Marble005_PREVIEW.jpg-d44b19ff6ef987c147290ac95f5631f5.stex" ]
+source_file="res://WORLD/living_room/materials/Marble005_2K-PNG/Marble005_PREVIEW.jpg"
+dest_files=[ "res://.import/Marble005_PREVIEW.jpg-7c3f49743c255ef56c4d79da85b355ff.stex" ]
 
 [params]
 

@@ -21,7 +21,13 @@ _global_script_class_icons={
 [application]
 
 config/name="Why did I start another project"
-run/main_scene="res://Main.tscm"
+run/main_scene="res://Main.tscn"
+
+[display]
+
+window/size/width=1920
+window/size/height=1080
+window/dpi/allow_hidpi=true
 
 [editor_plugins]
 

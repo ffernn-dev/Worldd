@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr-2037323bbc9d6ef3575f1767985ec8c0.stex"
+path="res://.import/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr-7b1a8bc7336121d3b5a1207453c9edce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr"
-dest_files=[ "res://.import/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr-2037323bbc9d6ef3575f1767985ec8c0.stex" ]
+source_file="res://WORLD/living_room/materials/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr"
+dest_files=[ "res://.import/1b43a9e3-a98c-4603-bb22-9e091418a33a.exr-7b1a8bc7336121d3b5a1207453c9edce.stex" ]
 
 [params]
 

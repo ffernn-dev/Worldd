@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wood051_1K_Displacement.png-c1be2761125c4fa3a48921ef4d923734.stex"
+path="res://.import/Wood051_1K_Displacement.png-5ef536cb3b7092b3df15339353434a97.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Wood051_1K-PNG/Wood051_1K_Displacement.png"
-dest_files=[ "res://.import/Wood051_1K_Displacement.png-c1be2761125c4fa3a48921ef4d923734.stex" ]
+source_file="res://WORLD/living_room/materials/Wood051_1K-PNG/Wood051_1K_Displacement.png"
+dest_files=[ "res://.import/Wood051_1K_Displacement.png-5ef536cb3b7092b3df15339353434a97.stex" ]
 
 [params]
 

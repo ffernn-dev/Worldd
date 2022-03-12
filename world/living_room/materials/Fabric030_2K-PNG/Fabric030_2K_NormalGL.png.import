@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fabric030_2K_NormalGL.png-77ab078b78940e00eac9d7b0f0012e7d.stex"
+path="res://.import/Fabric030_2K_NormalGL.png-7d194c4044b0d7f2a2adec9e3fa190da.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Fabric030_2K-PNG/Fabric030_2K_NormalGL.png"
-dest_files=[ "res://.import/Fabric030_2K_NormalGL.png-77ab078b78940e00eac9d7b0f0012e7d.stex" ]
+source_file="res://WORLD/living_room/materials/Fabric030_2K-PNG/Fabric030_2K_NormalGL.png"
+dest_files=[ "res://.import/Fabric030_2K_NormalGL.png-7d194c4044b0d7f2a2adec9e3fa190da.stex" ]
 
 [params]
 

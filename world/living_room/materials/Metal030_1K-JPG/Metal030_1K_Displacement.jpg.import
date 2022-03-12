@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Metal030_1K_Displacement.jpg-1f2d4d56078d9f05687cf7374a9a5741.stex"
+path="res://.import/Metal030_1K_Displacement.jpg-957550f33c936654abbf5b2f7071c0a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Metal030_1K-JPG/Metal030_1K_Displacement.jpg"
-dest_files=[ "res://.import/Metal030_1K_Displacement.jpg-1f2d4d56078d9f05687cf7374a9a5741.stex" ]
+source_file="res://WORLD/living_room/materials/Metal030_1K-JPG/Metal030_1K_Displacement.jpg"
+dest_files=[ "res://.import/Metal030_1K_Displacement.jpg-957550f33c936654abbf5b2f7071c0a9.stex" ]
 
 [params]
 

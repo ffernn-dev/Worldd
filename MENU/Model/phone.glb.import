@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/phone.glb-f0b52a43c2e4cc34535518b4714de3d1.scn"
+path="res://.import/phone.glb-06ef7fd3e1cd4bbe45cdfd18d5e46854.scn"
 
 [deps]
 
-source_file="res://menu/model/phone.glb"
-dest_files=[ "res://.import/phone.glb-f0b52a43c2e4cc34535518b4714de3d1.scn" ]
+source_file="res://MENU/Model/phone.glb"
+dest_files=[ "res://.import/phone.glb-06ef7fd3e1cd4bbe45cdfd18d5e46854.scn" ]
 
 [params]
 

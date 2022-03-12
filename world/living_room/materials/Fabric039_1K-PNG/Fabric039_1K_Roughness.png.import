@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fabric039_1K_Roughness.png-167417cf7bf1f92458c38193d133d0d7.stex"
+path="res://.import/Fabric039_1K_Roughness.png-e358fd7ac4431f8af8ea0d3905fe01ad.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/living_room/materials/Fabric039_1K-PNG/Fabric039_1K_Roughness.png"
-dest_files=[ "res://.import/Fabric039_1K_Roughness.png-167417cf7bf1f92458c38193d133d0d7.stex" ]
+source_file="res://WORLD/living_room/materials/Fabric039_1K-PNG/Fabric039_1K_Roughness.png"
+dest_files=[ "res://.import/Fabric039_1K_Roughness.png-e358fd7ac4431f8af8ea0d3905fe01ad.stex" ]
 
 [params]
 
