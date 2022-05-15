@@ -1,0 +1,111 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://MENU/Media/Settings.png" type="Texture" id=1]
+[ext_resource path="res://MENU/App Icon.gd" type="Script" id=2]
+[ext_resource path="res://MENU/Media/vegur_0701/Vegur-Regular.otf" type="DynamicFontData" id=4]
+
+[sub_resource type="Shader" id=2]
+code = "shader_type canvas_item;
+
+uniform float radius: hint_range(0., 1.) = 1;
+uniform float square_scale: hint_range(0., 1.) = 0.1;
+
+void fragment() {
+    float sc = square_scale + square_scale/2.;
+    float r = square_scale + (1. - radius) * (square_scale/2.);
+    
+    float scax = 1. - square_scale;
+    
+    float dx;
+    float dy;
+    float d;
+    float a;
+    
+    COLOR = texture(TEXTURE, UV);
+    
+    if (UV.x < square_scale && UV.y > scax) {
+        dx = square_scale - UV.x;
+        dy = scax - UV.y;
+        d = sqrt(pow(dx, 2.) + pow(dy, 2.));
+        a = asin(d);
+        
+        if (a > r) {
+             COLOR.a = 0.;
+        }
+    }
+    
+    if (UV.x < square_scale && UV.y < square_scale) {
+        dx = square_scale - UV.x;
+        dy = square_scale - UV.y;
+        d = sqrt(pow(dx, 2.) + pow(dy, 2.));
+        a = asin(d);
+        
+        if (a > r) {
+            COLOR.a = 0.;
+        }
+    }
+    
+    if (UV.x > scax && UV.y < square_scale) {
+        dx = scax - UV.x;
+        dy = square_scale - UV.y;
+        d = sqrt(pow(dx, 2.) + pow(dy, 2.));
+        a = asin(d);
+        
+        if (a > r) {
+            COLOR.a = 0.;
+        }
+    }
+
+    if (UV.x > scax && UV.y > scax) {
+        dx = scax - UV.x;
+        dy = scax - UV.y;
+        d = sqrt(pow(dx, 2.) + pow(dy, 2.));
+        a = asin(d);
+        
+        if (a > r) {
+            COLOR.a = 0.;
+        }
+    }
+}"
+
+[sub_resource type="ShaderMaterial" id=3]
+shader = SubResource( 2 )
+shader_param/radius = 1.0
+shader_param/square_scale = 0.25
+
+[sub_resource type="DynamicFont" id=1]
+use_filter = true
+font_data = ExtResource( 4 )
+
+[node name="App Icon" type="VBoxContainer"]
+margin_right = 40.0
+margin_bottom = 40.0
+alignment = 1
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+app_name = "The The The The The"
+
+[node name="Icon" type="TextureRect" parent="."]
+material = SubResource( 3 )
+margin_right = 100.0
+margin_bottom = 100.0
+grow_horizontal = 0
+rect_min_size = Vector2( 100, 100 )
+texture = ExtResource( 1 )
+expand = true
+stretch_mode = 6
+
+[node name="Name" type="Label" parent="."]
+margin_top = 104.0
+margin_right = 100.0
+margin_bottom = 124.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "TheTheThe"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
